@@ -1,0 +1,8 @@
+BOT_TOKEN = "8759633026:AAGpfbrmoo7kbiqRSOoBAGtTJYFrbAxxTvI"
+
+OWNER_ID = 8188215655
+
+FORCE_CHANNELS = [
+    "@Titanpyy",
+    "@TITANCONTACT"
+]
